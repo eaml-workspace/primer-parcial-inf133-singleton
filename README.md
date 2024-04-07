@@ -1,5 +1,5 @@
 # Primer Parcial
-## Programación Web III - Restful Singleton
+## Programación Web III - RESTful Singleton
 
 ### Antes de Empezar:
 
